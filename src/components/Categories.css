@@ -1,0 +1,63 @@
+.Categories{
+    width:95%;
+    margin-left: 5px;
+    margin-right: 5px;
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.Ca{
+    flex:1 0 30%;
+    text-align: center;
+    margin:5px;
+    align-items: center;
+    /* border: #ccc;
+    border-width: 1px;
+    border-style: solid;
+    box-sizing: border-box;
+    border-radius: 5%; */
+}
+
+.Cats{
+    flex: 1 0 45%; 
+    margin: 5px;
+    height: 100px;
+    cursor: pointer;
+    line-height: 75px;
+    border-bottom: 4px solid transparent;
+    box-sizing: border-box;
+    border-radius: 5%;
+    background-color:#d21502;
+    color:white;
+    font-weight: bold;
+    text-align: center;
+    align-items: center;
+    box-shadow:0 2px 1px #ccc;
+    padding: 10px 0;
+}
+
+.Cart{
+    
+        background-color:#990f02;
+        width:60%;
+        margin-left: 70px;
+        margin-top: 20px;
+        align-items: center;
+        text-align: center;
+        box-sizing: border-box;
+        border-radius: 5%;
+        color: white;
+        outline: none;
+        cursor: pointer;
+        font: inherit;
+        padding: 10px;
+        font-weight: bolder;
+    
+}
+
+.Header{
+    text-align: center;
+    color:black;
+    margin-bottom: 5px;
+    
+}

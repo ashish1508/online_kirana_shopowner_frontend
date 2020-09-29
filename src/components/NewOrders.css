@@ -1,0 +1,21 @@
+
+  .OrderButton{
+    background-color: #26D701;
+    color:white;
+    border-color: sandybrown;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    width: 100%;
+    height:5%;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    position: fixed;
+    bottom: 0;
+    display:flex;
+    flex-direction: row;
+}
